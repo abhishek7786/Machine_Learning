@@ -1,2 +1,4 @@
 # Machine_Learning
-Anything Related to machine learning will be here.
+Just started with Machine Learning. 
+## Why this Repository?
+Will try to publish the insights while learning the algorithms and any of the algorithms I will implement will try to put here.
