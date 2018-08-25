@@ -3,17 +3,18 @@ This competition was held for the recruitment for web club in NITK.
 As I have just started with ML so competiting was entirely new to me.
 This competitions was one week long.
 
-I joined 4th day.
+I joined on 4th day.
 
 ## What I learned by taking in part in this competition ?
 
 Learned about feature engineering ?
-
 Why it is so important before fitting the model?
 How to handle the continuous data ?
+
 Concept of bins.
 Manually created bins and adaptive bins.
-Moreover log transoformation of continuous data.
+
+Log transoformation of continuous data.
 What is log transformation ?
 
 
